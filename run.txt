@@ -1,1 +1,1 @@
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/wondream322/kworker/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/wondream322/kworker/master/install.sh)"
